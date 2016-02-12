@@ -1,0 +1,17 @@
+{
+    "com.unarin.cordova.beacon": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/petermetz/cordova-plugin-ibeacon",
+            "subdir": "."
+        }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1.2.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
